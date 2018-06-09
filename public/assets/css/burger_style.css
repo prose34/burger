@@ -43,6 +43,7 @@ img {
 
 .devourBtn {
     border: 2px solid black;
+    float: right;
 }
 
 .submitBTN {
@@ -58,3 +59,11 @@ img {
     margin: 0px;
     padding: 0px;
 } */
+
+.input-group {  
+    display: inline-block;
+}
+
+p.lead {
+    float: left;
+}
