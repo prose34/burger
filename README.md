@@ -3,7 +3,8 @@
 Created during Week 14 of the SMU Coding Bootcamp. The goal was to create a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). The MVC design pattern was followed; using Node and MySQL to query and route data in the app, and Handlebars to generate HTML.
 
 ## Live Project Link
-insert Heroku link here
+
+https://radiant-basin-82331.herokuapp.com/burgers
 
 ## Screen Shots
 
